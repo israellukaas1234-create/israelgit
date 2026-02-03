@@ -6,8 +6,8 @@
 
 Explique o que são **modelos de serviço em computação em nuvem** e qual é o objetivo dessa classificação.
 
-Definir claramente responsabilidades entre provedor e usuário
-nuvem são formas de classificar o que o provedor de nuvem oferece e até onde vai a responsabilidade do usuário
+R= Definir claramente responsabilidades entre provedor e usuário
+R = nuvem são formas de classificar o que o provedor de nuvem oferece e até onde vai a responsabilidade do usuário
 
 
 
@@ -15,27 +15,27 @@ nuvem são formas de classificar o que o provedor de nuvem oferece e até onde v
 
 Defina o modelo **IaaS (Infrastructure as a Service)** e cite **duas responsabilidades do usuário** nesse modelo.
 
----
-
+R= no IaaS o provedor cuida do hardware físico, enquanto o usuário é responsável por todo o software que roda sobre ele.
 ## 🔹 Questão 3 – PaaS
 
 No modelo **PaaS**, quais camadas são gerenciadas pelo provedor de nuvem e quais ficam sob responsabilidade do usuário?
 
----
+R= no PaaS o provedor cuida de toda a base técnica, enquanto o usuário pode focar apenas em criar, executar e manter suas aplicações.
 
 ## 🔹 Questão 4 – SaaS
 
 Explique por que o **SaaS** é considerado o modelo com **menor nível de controle do usuário**, mas também o **mais fácil de usar**.
 
----
+R= o usuário abre mão de controle e personalização, mas ganha simplicidade, rapidez de uso e menor esforço de gerenciamento,
+o que torna o SaaS ideal para quem quer apenas usar a aplicação sem se preocupar com aspectos técnicos.
 
 ## 🔹 Questão 5 – Associação
 
 Associe corretamente os modelos de serviço às descrições:
 
-(  ) Permite ao usuário apenas utilizar o software via navegador.
-(  ) Oferece infraestrutura virtualizada como servidores e redes.
-(  ) Fornece uma plataforma pronta para desenvolvimento de aplicações.
+( c ) Permite ao usuário apenas utilizar o software via navegador.
+( a ) Oferece infraestrutura virtualizada como servidores e redes.
+( b ) Fornece uma plataforma pronta para desenvolvimento de aplicações.
 
 a) IaaS
 b) PaaS
