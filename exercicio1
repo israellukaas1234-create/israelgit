@@ -47,21 +47,26 @@ c) SaaS
 
 Explique o conceito de **responsabilidade compartilhada** na computação em nuvem, citando um exemplo prático.
 
----
+R= Responsabilidade compartilhada é quando provedor e cliente dividem a segurança na nuvem: o provedor cuida da infraestrutura e o cliente dos dados e configurações.
+Exemplo: a nuvem protege os servidores, mas o cliente deve configurar corretamente o acesso aos seus arquivos.
 
 ## 🔹 Questão 7 – Comparação
 
 Compare **IaaS, PaaS e SaaS** quanto ao **nível de controle**, **complexidade de uso** e **perfil do usuário**.
 
----
+R= IaaS: alto nível de controle, maior complexidade de uso; indicado para administradores de sistemas e equipes de TI.
+
+PaaS: controle intermediário, complexidade média; indicado para desenvolvedores.
+
+SaaS: baixo controle, uso simples; indicado para usuários finais.
 
 ## 🔹 Questão 8 – Verdadeiro ou Falso
 
 Analise as afirmativas:
 
-(  ) No modelo SaaS, o usuário é responsável por atualizações do sistema.
-(  ) O modelo IaaS oferece maior flexibilidade que o SaaS.
-(  ) No modelo PaaS, o desenvolvedor não precisa se preocupar com o sistema operacional.
+( F ) No modelo SaaS, o usuário é responsável por atualizações do sistema.
+( V ) O modelo IaaS oferece maior flexibilidade que o SaaS.
+( V ) No modelo PaaS, o desenvolvedor não precisa se preocupar com o sistema operacional.
 
 ---
 
@@ -72,10 +77,12 @@ Uma empresa deseja apenas utilizar um sistema de e-mail corporativo, sem se preo
 a) Qual modelo de serviço em nuvem é o mais adequado?
 b) Justifique sua resposta.
 
----
+R= a) SaaS (Software como Serviço)
+
+b) Porque a empresa utiliza o sistema de e-mail pronto, sem precisar se preocupar com instalação, manutenção, atualizações ou servidores, que ficam sob responsabilidade do provedor.
 
 ## 🔹 Questão 10 – Dissertativa
 
 Explique por que o modelo **PaaS** é considerado ideal para equipes de desenvolvimento de software.
 
----
+R= O PaaS é ideal para equipes de desenvolvimento porque fornece um ambiente pronto para criar, testar e implantar aplicações, sem a necessidade de gerenciar servidores ou sistema operacional, permitindo foco total no código e na aplicação.
